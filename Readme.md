@@ -1,3 +1,5 @@
+# Note: Working progress.
+
 # WifiDog Captive Portal Auth Server
 
 This is yet another Authentication Server for the WifiDog Captive Portal Solution.
